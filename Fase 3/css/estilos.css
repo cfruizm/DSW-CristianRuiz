@@ -1,7 +1,7 @@
 header{
     background-color: #40514E;
     color: white;
-    padding: auto;
+    padding: 20px;
     display: flex;
     justify-content:space-around;
     
@@ -20,8 +20,9 @@ aside{
 }
 footer{
     background-color: #40514E;
-    padding: auto;
+    padding: 10px;
     color: white;
+    text-align: center;
 }
 section{
     display: grid;
